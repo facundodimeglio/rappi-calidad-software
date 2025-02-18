@@ -1,23 +1,9 @@
-# rappi-calidad-software
-Rappi Calidad de Software
 📌 Descripción
 
 Este repositorio simula el control de cambios de la aplicación Rappi utilizando Git y la estrategia Git Flow, mostrando el uso de ramas, commits y actualizaciones según la matriz de trazabilidad.
 
 🗃️ Estructura del Proyecto
-
-├── src/
-│   ├── backend/
-│   ├── frontend/
-│   └── mobile/
-├── tests/
-│   ├── unit/
-│   ├── integration/
-│   └── system/
-├── docs/
-│   ├── requirements/
-│   └── test-cases/
-└── CHANGELOG.md
+![image](https://github.com/user-attachments/assets/bb593c0a-f448-417c-9e83-4a35ab13e8c9)
 
 
 🚀 Estrategia de Branching (Git Flow)
